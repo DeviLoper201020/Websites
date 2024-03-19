@@ -1,0 +1,83 @@
+dialogue.world DB and Login Details
+
+https://dialogue.world/wp-admin
+Username: appstage
+Password: DialogueLog
+
+--
+
+// ** Database settings - You can get this info from your web host ** //
+/** The name of the database for WordPress */
+define( 'DB_NAME', "dialocwjyy_db9" );
+
+/** Database username */
+define( 'DB_USER', "dialocwjyy_9" );
+
+/** Database password */
+define( 'DB_PASSWORD', "2p78y1qFXs70Lxy7Ep16" );
+
+/** Database hostname */
+define( 'DB_HOST', "sql16.flk1.host-h.net" );
+
+/** Database charset to use in creating database tables. */
+define( 'DB_CHARSET', 'utf8mb4' );
+
+/** The database collate type. Don't change this if in doubt. */
+define( 'DB_COLLATE', '' );
+
+
+---
+
+
+
+converseng.com DB and Login Details
+
+https://converseng.com/wp-login.php
+Username: appstage
+Password: ConversUse
+
+--
+
+// ** Database settings - You can get this info from your web host ** //
+/** The name of the database for WordPress */
+define( 'DB_NAME', 'conveyrytw_db1' );
+
+/** Database username */
+define( 'DB_USER', 'conveyrytw_1' );
+
+/** Database password */
+define( 'DB_PASSWORD', '0w1Pbo8s60IH7I10v9Gn' );
+
+/** Database hostname */
+define( 'DB_HOST', 'sql14.flk1.host-h.net' );
+
+/** Database charset to use in creating database tables. */
+define( 'DB_CHARSET', 'utf8' );
+
+/** The database collate type. Don't change this if in doubt. */
+define( 'DB_COLLATE', '' );
+
+
+---
+
+corecapital.co.za DB and Login Details
+
+
+https://corecapital.co.za/wp-admin
+Username: appstage
+Password: CoreUse
+
+--
+
+// ** Database settings - You can get this info from your web host ** //
+/** The name of the database for WordPress */
+define( 'DB_NAME', 'coreccgsaj_db3' );
+
+/** Database username */
+define( 'DB_USER', 'coreccgsaj_3' );
+
+/** Database password */
+define( 'DB_PASSWORD', '59Du8py75xSO1qzQW8zi' );
+
+/** Database hostname */
+define( 'DB_HOST', 'sql6.nur4.host-h.net' );
